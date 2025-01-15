@@ -4,7 +4,8 @@
    1. ENGEFABRAS SERVIÇOS ESPECIAIS EM ENGENHARIA:
 
       . Início: 07/2024 - Atualmente
-
+      
+      . Atividades: Manutenção de notebookk e desktop, configuração de redes, treinamento dos sistemas da impresa a novos colaboradores e novos sistemas integrados, controle de inventário dos dispositivos de ti, configuração de impressoras, controle de acessos as pastas.
       
 ### **Contatos:**
 
