@@ -10,7 +10,6 @@
 
 ### **Estudando:**
 
-<img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-php-mysql-database-apache-http-server-2257567%2F&psig=AOvVaw0sGF9n_hulvYDHkE27cEvc&ust=1737049226292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjspIij-IoDFQAAAAAdAAAAABAJ)" width="40" height="40"/>
 
 ### **Contatos:**
 
