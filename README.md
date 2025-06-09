@@ -9,7 +9,7 @@
 
 
 ### **Estudando:**
-      . Sistemas de Informação - IFMG Ouro Branco
+   . Sistemas de Informação - IFMG Ouro Branco
 
 ### **Contatos:**
 
