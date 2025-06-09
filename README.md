@@ -1,7 +1,7 @@
 # Eae, tudo bem? Meu nome é Gabriel Jesus e esse é meu Github.
 
 ### **Minhas experiências profissionais:**
-   1. ENGEFABRAS SERVIÇOS ESPECIAIS EM ENGENHARIA:
+   1. ENGEFABRAS SERVIÇOS ESPECIAIS EM ENGENHARIA - HELPDESK:
 
       . Início: 07/2024 - Atualmente
       
